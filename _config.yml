@@ -1,1 +1,16 @@
-theme: minima  # 示例：GitHub Pages 默认主题
+theme: jekyll-theme-cayman
+
+# 基础信息
+title: "Purple Bee Team"
+description: "We will participate in the IARC mission 10 competition!"
+url: "https://chunshenjun-code.github.io"
+# Cayman 主题配置
+cayman:
+  # 头部配置
+  show_sidebar: true        # 显示侧边栏目录（需 Markdown 文件包含标题）
+  # 页面宽度
+  page_width: 1200px        # 默认 "auto"（自适应），可设固定值如 "800px"
+  # 配色方案（可选）
+  accent_color: "#159957"   # 主题色（标题、链接）
+  background_color: "#f3f3f3"  # 页面背景色
+ 

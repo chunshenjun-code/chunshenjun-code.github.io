@@ -5,4 +5,10 @@
 
 ![our drone3](/drone3.jpg)
 
-![show1](/show.mp4)
+#show
+<div style="text-align:center">
+  <video controls width="80%">
+    <source src="./show.mp4" type="video/mp4">
+    Video not supported.
+  </video>
+</div>
